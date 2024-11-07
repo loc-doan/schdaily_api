@@ -4,12 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="a2fa492c-5fe0-4be9-b72b-d975040cdc2e" name="Changes" comment="" />
+=======
+    <list default="true" id="af268647-a1c8-4047-a15a-885902a88a1b" name="Changes" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< Updated upstream
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+>>>>>>> Stashed changes
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -18,13 +33,20 @@
     </option>
   </component>
   <component name="ProjectColorInfo">{
+<<<<<<< Updated upstream
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2kY0C34agSY5GkDS5nVkgIyTrsO" />
+=======
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2kY6SKEQ4kbCuTBHaTTa5BkbeHw" />
+>>>>>>> Stashed changes
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< Updated upstream
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
@@ -41,12 +63,37 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.UserServiceApplication.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/demo3/FirstAPI",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+>>>>>>> Stashed changes
   }
 }</component>
   <component name="RunManager">
+<<<<<<< Updated upstream
     <configuration name="EurekaSeverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="EurekaSever" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekasever.EurekaSeverApplication" />
+=======
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="UserService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.UserService.UserServiceApplication" />
+>>>>>>> Stashed changes
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -63,6 +110,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream
       <changelist id="a2fa492c-5fe0-4be9-b72b-d975040cdc2e" name="Changes" comment="" />
       <created>1723445074666</created>
       <option name="number" value="Default" />
@@ -78,6 +126,32 @@
       <workItem from="1727859791571" duration="444000" />
       <workItem from="1727860835265" duration="620000" />
       <workItem from="1728271227931" duration="1327000" />
+=======
+      <changelist id="af268647-a1c8-4047-a15a-885902a88a1b" name="Changes" comment="" />
+      <created>1723448161738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723448161738</updated>
+      <workItem from="1723448162782" duration="6373000" />
+      <workItem from="1723473318733" duration="1899000" />
+      <workItem from="1723481443016" duration="13651000" />
+      <workItem from="1724497161076" duration="303000" />
+      <workItem from="1724982359580" duration="9961000" />
+      <workItem from="1725887635699" duration="12072000" />
+      <workItem from="1726200681948" duration="1718000" />
+      <workItem from="1726209946314" duration="19000" />
+      <workItem from="1726211259099" duration="324000" />
+      <workItem from="1726477050497" duration="2169000" />
+      <workItem from="1726546682705" duration="1561000" />
+      <workItem from="1726648848713" duration="4865000" />
+      <workItem from="1727147559533" duration="6344000" />
+      <workItem from="1727859735714" duration="12000" />
+      <workItem from="1727859800605" duration="3062000" />
+      <workItem from="1728271232841" duration="7912000" />
+      <workItem from="1730274727624" duration="3372000" />
+      <workItem from="1730961629437" duration="28000" />
+      <workItem from="1730961688768" duration="973000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
